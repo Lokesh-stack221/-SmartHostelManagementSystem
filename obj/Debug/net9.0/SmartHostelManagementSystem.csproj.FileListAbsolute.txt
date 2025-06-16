@@ -1,0 +1,14 @@
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\bin\Debug\net9.0\SmartHostelManagementSystem.exe
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\bin\Debug\net9.0\SmartHostelManagementSystem.deps.json
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\bin\Debug\net9.0\SmartHostelManagementSystem.runtimeconfig.json
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\bin\Debug\net9.0\SmartHostelManagementSystem.dll
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\bin\Debug\net9.0\SmartHostelManagementSystem.pdb
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.AssemblyInfo.cs
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.dll
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\refint\SmartHostelManagementSystem.dll
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.pdb
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\SmartHostelManagementSystem.genruntimeconfig.cache
+C:\Users\PRANAVI AVV\Desktop\Smarthostelmanagement\SmartHostelManagementSystem\obj\Debug\net9.0\ref\SmartHostelManagementSystem.dll
