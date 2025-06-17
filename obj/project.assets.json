@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\SmartHostelManagementSystem\\SmartHostelManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\-SmartHostelManagementSystem\\SmartHostelManagementSystem.csproj",
       "projectName": "SmartHostelManagementSystem",
-      "projectPath": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\SmartHostelManagementSystem\\SmartHostelManagementSystem.csproj",
+      "projectPath": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\-SmartHostelManagementSystem\\SmartHostelManagementSystem.csproj",
       "packagesPath": "C:\\Users\\PRANAVI AVV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\SmartHostelManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\PRANAVI AVV\\Desktop\\Smarthostelmanagement\\-SmartHostelManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRANAVI AVV\\AppData\\Roaming\\NuGet\\NuGet.Config"
