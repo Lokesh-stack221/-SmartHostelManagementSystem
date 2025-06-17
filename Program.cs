@@ -2,31 +2,15 @@
 using SmartHostelManagementSystem.Models;
 using SmartHostelManagementSystem.Services;
 
-class Program
+Complaint complaint = new Complaint
 {
-    static async Task Main()
-    {
-        var student = new Student
-        {
-            ID = 1,
-            Name = "Alice"
-        };
-        var room = new Room
-        {
-            RoomNumber = 101,
-            Capacity = 2
-        };
-        var roomService = new RoomService();
+    StudentId = "S001",
+    Description = "Wi-Fi not working",
+    DateRaised = DateTime.Now
+};
 
-        try
-        {
-            await roomService.AllocateRoomAsync(student, room);
-            Console.WriteLine("✅ Room allocated successfully.");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine($"❌ Error: {ex.Message}");
-        }
-    }
-}
+ComplaintService service = new ComplaintService();
 
+await service.SubmitComplaintAsync(complaint);
+
+Console.WriteLine("Complaint submitted successfully.");
